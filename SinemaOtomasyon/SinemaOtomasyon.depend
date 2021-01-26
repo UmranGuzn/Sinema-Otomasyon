@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1611694470 source:c:\users\umran\onedrive\masaüstü\projeler\sinemaotomasyon\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
